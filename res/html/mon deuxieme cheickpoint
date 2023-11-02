@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<title>mon deuxieme cheickpoint</title>
+<link rel="stylesheet" href="/res/css/style.css"/>
+<link rel="shortcut icon" href="/images/logogit.png" type="image/png">
+
+
+</head>
+<body>
+    <!--l'entête du corps de la page-->
+    <nav class="navigation">
+        <a href="https://gomycode.com/ic/fr/hackerspaces/">Acceille</a>
+        <a href="https://www.jumia.ma/sp-a-propos">A PROPOS</a>
+        <a href="https://www.operanewsapp.com/ci/fr?from=newslite">TRAVAIL</a>
+         <a href= "https://blog.hubspot.fr/marketing/balises-semantiques">CV</a>
+          <a href= "https://vimeo.com/operanews">contact</a> 
+            
+     <header class="mainheader">
+        <video   controls width="350" height="300">
+            <source src="/VIDEO/VIDEO&.mp4" type="video/mp4"/>
+            </video>
+            
+            <nav class="navigation">
+            <a href="#">
+            
+            <table>
+                <thead>
+                  <tr>
+                    <th colspan="2">numero de serie</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>capacite du disque</td>
+                    <td>capacite de memoire ram</td>
+                  </tr>
+                </tbody>
+              </table>
+            <ol>
+                <li>disque dur 500gb,alimentation sata.</li>
+                <li>ecran d'ordinateur portable 15,6</li>
+                <li>ecran bureau</li>
+                <form method="get" action="">
+                    <p>
+                        <label for="prenom">Votre prénom :</label>
+                        <input type="text" name="prenom" id="prenom" placeholder="MAIGA" size="30" maxlength="20">
+                    </p>
+
+                    <form method="get" action="">
+                        <p>
+                            Cochez les aliments que vous aimez manger :<br>
+                            <input type="checkbox" name="hamburger" id="hamburger"> <label for="hamburger">hamburger</label><br>
+                            <input type="checkbox" name="viande" id="viande"> <label for="viande">viande</label><br>
+                            <input type="checkbox" name="tomate" id="tomate"> <label for="tomate">tomate</label><br>
+                            <input type="checkbox" name="poisson" id="poisson"> <label for="poisson">poisson</label>
+                        </p>
+                    </form>
+                </form>
+            </nav>
+            </ol>
+        </body>
+        </html>
